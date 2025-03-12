@@ -1,5 +1,4 @@
 # Consumer-Goods-Analysis-SQL
-
 ## Problem Statement
 Atliq Hardwares is one of India's leading computer hardware producers and is well expanded in other countries.
 
