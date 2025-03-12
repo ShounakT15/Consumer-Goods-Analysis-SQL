@@ -13,3 +13,5 @@ Imagine yourself as the applicant for this role and perform the following task
 - Advanced Querying & Performance – Used complex SQL functions like CTEs, window functions, and performance analysis tools.
 - Database Design & Integrity – Applied normalization, constraints, and security best practices for data consistency.
 - Real-World Insights & Automation – Gained experience in extracting meaningful insights, automating tasks, and handling real-world business data.
+## Note 
+You can check the SQL code and presentation attached to this file.
