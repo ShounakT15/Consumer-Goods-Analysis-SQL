@@ -9,9 +9,9 @@ Imagine yourself as the applicant for this role and perform the following task
 - You need to run a SQL query to answer these requests.
 - The target audience of this dashboard is top-level management, hence, you need to create a presentation to show the insights.
 ## Key Learnings
-- Efficient Data Handling – Learned how to clean, transform, and optimize datasets using indexing, joins, and query tuning.
-- Advanced Querying & Performance – Used complex SQL functions like CTEs, window functions, and performance analysis tools.
-- Database Design & Integrity – Applied normalization, constraints, and security best practices for data consistency.
-- Real-World Insights & Automation – Gained experience in extracting meaningful insights, automating tasks, and handling real-world business data.
+- **Efficient Data Handling** – Learned how to clean, transform, and optimize datasets using indexing, joins, and query tuning.
+- **Advanced Querying & Performance** – Used complex SQL functions like CTEs, window functions, and performance analysis tools.
+- **Database Design & Integrity** – Applied normalization, constraints, and security best practices for data consistency.
+- **Real-World Insights & Automation** – Gained experience in extracting meaningful insights, automating tasks, and handling real-world business data.
 ## Note 
 You can check the SQL code and presentation attached to this file.
